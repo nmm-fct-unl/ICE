@@ -1,0 +1,8 @@
+Este ficheiro so contem texto. Tem um total de 176 caracteres.
+	115 minusculas;
+	2 maiusculas;
+	21 espacos;
+	9 caracteres de pontuacao;
+	14 digitos;
+	7 tabs;
+	8 fins de linha.
